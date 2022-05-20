@@ -185,6 +185,7 @@ main {
 
 /* JORGE MAY 20 CHALLENGE BELOW 👇🏼 */
 
+/* LAPTOP */
 @media screen and (max-width:1200px){
 .glass{
   display: flex;
@@ -271,6 +272,8 @@ font-size: 28px;
 
 }
 
+
+/* FLIP PHONE */
 @media screen and (max-width:250px){
 .glass{
   display: flex;
